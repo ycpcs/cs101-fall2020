@@ -9,26 +9,26 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 
 > Date | Lab | File
 > ---- | --- | ----
-> Aug 25 | [Lab 1: Hello CS101!](lab01.html)         | [CS101\_Lab01.zip](CS101_Lab01.zip)
-> Aug 27 | [Lab 2: Expensive Calculator](lab02.html) | [CS101\_Lab02.zip](CS101_Lab02.zip)
-> Sep 1  | [Lab 3: Math Functions](lab03.html)       | n/a
-> Sep 3  | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
-> Sep 8  | [Lab 5: Animal Classifier](lab05.html)    | [CS101\_Lab05.zip](CS101_Lab05.zip)
-> Sep 15 | [Lab 7: For loops](lab07.html)            | n/a
-> Sep 17 | [Lab 8: Gone loopy](lab08.html)           | [CS101\_Lab08.zip](CS101_Lab08.zip)
-> Sep 22 | [Lab 9: Bar Graph](lab09.html) <br /> [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab09.zip](CS101_Lab09.zip) <br /> [CS101\_Lab10.zip](CS101_Lab10.zip)
-> Sep 24 | **Optional** [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](CS101_Lab11.zip)
-> Oct 1  | [Lab 12: Array Exercises](lab12.html) | n/a
-> Oct 6  | [Lab 12b: Sorting and Finding Median of an Array](lab12b.html) | [CS101\_Lab12b.zip](CS101_Lab12b.zip)
-> Oct 8  | **Optional** [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
-> Oct 13 | [Lab 14: Right Triangle](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip) 
-> Oct 15 | [Lab 15: Simple Stats](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
-> Oct 20 | [Lab 16: Function Design](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
-> Oct 27 | [Lab 18: Fancy Output](lab18.html) <br> [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab18.zip](CS101_Lab18.zip) <br> [CS101\_Lab21.zip](CS101_Lab21.zip)
-> Oct 29 | [Lab 19: Boing!](lab19.html) <br /> [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab19.zip](CS101_Lab19.zip) <br /> [CS101\_Lab23.zip](CS101_Lab23.zip)
-> Nov 3,5| [Lab 24: Mini Golf](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
-> Nov 10 | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
-> Nov 12,17| [Lab 25: Boing! particle simulation](lab25.html) | [CS101\_Lab25.zip](CS101_Lab25.zip)
+> Aug 26 | [Lab 1: Hello CS101!](lab01.html)         | [CS101\_Lab01.zip](CS101_Lab01.zip)
+> Aug 28 | [Lab 2: Expensive Calculator](lab02.html) | [CS101\_Lab02.zip](CS101_Lab02.zip)
+> Sep 2  | [Lab 3: Math Functions](lab03.html)       | n/a
+> Sep 4  | [Lab 4: Salary Calculator](lab04.html)    | [CS101\_Lab04.zip](CS101_Lab04.zip)
+> Sep 9  | [Lab 5: Animal Classifier](lab05.html)    | [CS101\_Lab05.zip](CS101_Lab05.zip)
+> Sep 11 | [Lab 7: For loops](lab07.html)            | n/a
+> Sep 16 | [Lab 8: Gone loopy](lab08.html)           | [CS101\_Lab08.zip](CS101_Lab08.zip)
+> Sep 18 | [Lab 9: Bar Graph](lab09.html) <br /> [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab09.zip](CS101_Lab09.zip) <br /> [CS101\_Lab10.zip](CS101_Lab10.zip)
+> Sep 23 | **Optional** [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](CS101_Lab11.zip)
+> Sept 30| [Lab 12: Array Exercises](lab12.html) | n/a
+> Oct 5  | [Lab 12b: Sorting and Finding Median of an Array](lab12b.html) | [CS101\_Lab12b.zip](CS101_Lab12b.zip)
+> Oct 7  | **Optional** [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
+> Oct 9  | [Lab 14: Right Triangle](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip) 
+> Oct 14 | [Lab 15: Simple Stats](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
+> Oct 16 | [Lab 16: Function Design](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
+> Oct 23 | [Lab 18: Fancy Output](lab18.html) <br> [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab18.zip](CS101_Lab18.zip) <br> [CS101\_Lab21.zip](CS101_Lab21.zip)
+> Oct 28 | [Lab 19: Boing!](lab19.html) <br /> [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab19.zip](CS101_Lab19.zip) <br /> [CS101\_Lab23.zip](CS101_Lab23.zip)
+> Oct 30, Nov 4| [Lab 24: Mini Golf](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
+> Nov 6  | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
+> Nov 11,13| [Lab 25: Boing! particle simulation](lab25.html) | [CS101\_Lab25.zip](CS101_Lab25.zip)
 
 <!--
 > Oct 31 | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)

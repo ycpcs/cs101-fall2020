@@ -38,7 +38,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **Aug 25** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
+* **Aug 26** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
 
 <!--
 * **Jan 23** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.
