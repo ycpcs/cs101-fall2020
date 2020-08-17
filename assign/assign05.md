@@ -19,13 +19,13 @@ Your task for this assignment is to complete the following CloudCoder exercises.
 
 The exercises:
 
-1. [orderPrice](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1274) <!-- 23:42 -->
-2. [checkThing](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1273) <!-- 23:41 -->
-3. [computeDiffuse](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1272) <!-- 23:40 -->
-4. [Tax time](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1275) <!-- 23:43 -->
-5. [mirror\_x](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1276) <!-- 23:44 -->
-6. [swap\_points](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1277) <!-- 23:45 -->
-7. [hitbox](https://cs.ycp.edu/cloudcoder/#exercise?c=26,p=1278)  <!-- 23:46 -->
+1. [orderPrice](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1274) <!-- 23:42 -->
+2. [checkThing](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1273) <!-- 23:41 -->
+3. [computeDiffuse](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1272) <!-- 23:40 -->
+4. [Tax time](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1275) <!-- 23:43 -->
+5. [mirror\_x](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1276) <!-- 23:44 -->
+6. [swap\_points](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1277) <!-- 23:45 -->
+7. [hitbox](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1278)  <!-- 23:46 -->
 
 ## Hints
 
