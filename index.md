@@ -37,6 +37,7 @@ All information about the course will be posted here.
 </div>
 
 ## News
+
 * **Aug 25** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
 
 <!--
