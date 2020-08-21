@@ -23,6 +23,11 @@ Course description
 
 This course introduces the fundamental techniques of algorithm design and program construction using procedural constructs.  Topics will include problem analysis; algorithm design; and implementation and debugging strategies using good programming practices.  The course will cover basic data structures including variables, arrays, strings, records, and pointers; and control structures including decisions, iterations, functions, and file I/O. The course will focus on applications from computer science and engineering using C/C++.
 
+COVID Recommendations
+---------------------
+
+This is the updated COVID policies.
+
 Prerequisites
 -------------
 
