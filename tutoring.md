@@ -19,17 +19,22 @@ If there are problems with your design or strategy, the tutors will help you fix
 
 Once you have demonstrated that you have a viable design and strategy for the problem you're working on, the tutors will be glad to help you with your code.
 
+<!--
 ## In class
 
 The in-class tutors are:
 
-<!--
+
 * Section 101 (8:45-9:15): Alyssa McDevitt (T), Jason Constantine (R)
 * Section 102 (10:15-10:45): Rob Politi (T), Jason Constantine (R)
 * Section 103 (11:45-12:15): Andrew Georgiou (T), Mikayla Trost (R)
 -->
 
 ## Evening sessions
+
+Evening tutoring is available from M-R from 6:00-8:30pm.
+
+Please refer to the Canvas course page for Zoom links. 
 
 <!--
 Monday - Thursday evening drop-in hours are 6:00-8:30 PM, in KEC 119.
