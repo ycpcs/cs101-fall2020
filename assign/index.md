@@ -8,10 +8,10 @@ This page links to homework assignments.
 Designs are due (hard copy) at the beginning of class on the indicated day.
 
 Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM on the indicated day.
-
+<!--
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
-[Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Fri, Sept 4th<br>Code: Thurs, Sept 9th
+[Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Fri, Sept 4th<br>Code: Thurs, Sept 9th -->
 
 <!--
 [Assignment 2: Calendar](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Thurs, Feb 13th<br>MS1 Code: Tues, Feb 17th<br>MS2 Design: Thur, Feb 19th<br>MS2 Code: Tues, Feb 24th

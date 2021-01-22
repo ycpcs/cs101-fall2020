@@ -3,9 +3,9 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 101, Fall 2020!
+# Welcome to CS 101, Spring 2021!
 
-This is the website for CS 101, Fall 2020 at York College.
+This is the website for CS 101, Spring 2021 at York College.
 All information about the course will be posted here.
 
 ## Links
@@ -38,7 +38,7 @@ All information about the course will be posted here.
 
 ## News
 
-* **Aug 26** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
+* **Feb 02** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
 
 <!--
 * **Jan 23** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.

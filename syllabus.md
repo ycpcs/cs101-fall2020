@@ -6,17 +6,22 @@ title: Syllabus
 CS 101 - Fundamentals of Computer Science I
 ===========================================
 
-**Fall 2020**
+**Spring 2021**
 
 Instructor: <a href="http://faculty.ycp.edu/~kkambhampaty">Krishna Kambhampaty</a>, <kkambhampaty@ycp.edu>
 
-Office Hours: TBD, or by appointment
+Office Hours: Contact during below hours or by appointment
+
+ Days     |  Time       | Room    
+ -------- | --------    | ---------- 
+ Mon/Wed  | 10:00-11:30 | Online 
+
 
  Section  | Days     |  Time       | Room    | Final Exam
  -------- | -------- |  ---------- | ------- | ----------
-101       | Wed/Fri  | 8:00-9:15   | KEC 119 | Fri, Dec 4, 8:00-10:00
-102       | Wed/Fri  | 10:00-11:15 | KEC 119 | Fri, Dec 4, 10:15-12:15
-103       | Wed/Fri  | 2:00-3:15   | KEC 123 | Fri, Dec 4, 3:00-5:00
+102       | Tue/Thu  | 9:30-10:45  | KEC 119 | TBD
+103       | Tue/Thu  | 11:00-12:15 | KEC 119 | TBD
+
 
 Course description
 ------------------
